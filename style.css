@@ -1,0 +1,20 @@
+.division-1{
+    width: 50%;
+    padding-left: 40px;
+}
+.division-1 img{
+    width: 75% ;
+    padding-left: 100px;
+}
+.flexible-container
+    {
+        display: flex;
+        margin-bottom: 50px;
+    }
+    .link-button{
+        text-decoration: none ;
+        background-image: linear-gradient(red , orange); 
+        color: white;
+        font-weight : 700;
+        padding: 10px 40px;
+        border-radius: 5px;  }
