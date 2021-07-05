@@ -18,3 +18,30 @@
         font-weight : 700;
         padding: 10px 40px;
         border-radius: 5px;  }
+
+        .division-2{
+            width: 50%;
+            padding-right: 10px;
+            width: 1000px;
+            background-image: url(images/shapes/Frame\ 57.jpg); 
+            background-repeat: no-repeat;
+        }
+        .division-2 img{
+            width: 75% ;
+            padding-right: 100px;
+            height: 100%;     
+        }
+        #link-buttonnn{
+            text-decoration: none ;
+        background-image: linear-gradient(skyblue ,blue); 
+        color: white;
+        font-weight : 700;
+        padding: 10px 40px;
+        border-radius: 5px; 
+        }
+        .flexible-container2
+    {
+        display: flex;
+        margin-bottom: 50px;
+        background-image: url(images/shapes/Frame\ 57.jpg);
+    }
