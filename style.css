@@ -1,3 +1,12 @@
+.division-0{
+    width: 100%;
+    padding-left: 40px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.division-0 img{
+    width: 80px ;
+}
 .division-1{
     width: 50%;
     padding-left: 40px;
@@ -9,7 +18,7 @@
 .flexible-container
     {
         display: flex;
-        margin-bottom: 50px;
+        margin-bottom: 40px;
     }
     .link-button{
         text-decoration: none ;
@@ -45,3 +54,4 @@
         margin-bottom: 50px;
         background-image: url(images/shapes/Frame\ 57.jpg);
     }
+
