@@ -17,7 +17,7 @@
 }
 .flexible-container
     {
-        display: flex;
+        display:flex;
         margin-bottom: 40px;
     }
     .link-button{
@@ -54,4 +54,27 @@
         margin-bottom: 50px;
         background-image: url(images/shapes/Frame\ 57.jpg);
     }
-
+    .flexible-container3{
+        display: flex;
+        margin-bottom: 50px;
+    }
+    .border-item{
+        box-shadow: 10px 10px 40px gray;
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 10px;
+        border-radius: 10px;
+        border-left: 10px solid; }
+    #border-1{
+        
+       border-left: 7px solid ;
+       border-image: linear-gradient(orange,yellow);
+       border-image-slice: 1; }
+       .link-button3{
+        text-decoration: none ;
+        background-image: linear-gradient(red , orange); 
+        color: white;
+        font-weight : 400;
+        padding: 10px 20px;
+        border-radius: 5px;  }
